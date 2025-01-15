@@ -10,3 +10,5 @@ C:\Octoplus
 C:\Octoplus\Octoplus_LG
 C:\UMTool
 C:\MobileSeaTool
+C:\TFMSoftware
+C:\Program Files (x86)\3uToolsV3
