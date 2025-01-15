@@ -8,3 +8,5 @@ C:\Program Files\Z3X\EASYJTAGPLUS
 C:\Program Files (x86)\Z3X
 C:\Octoplus
 C:\Octoplus\Octoplus_LG
+C:\UMTool
+C:\MobileSeaTool
