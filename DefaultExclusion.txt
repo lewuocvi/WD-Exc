@@ -8,6 +8,7 @@ C:\Program Files\Z3X\EASYJTAGPLUS
 C:\Program Files (x86)\Z3X
 C:\Octoplus
 C:\Octoplus\Octoplus_LG
+C:\Program Files (x86)\Medusa Pro Software
 C:\UMTool
 C:\MobileSeaTool
 C:\TFMSoftware
